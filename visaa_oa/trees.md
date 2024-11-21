@@ -1,4 +1,3 @@
-Here are the binary tree problems formatted as a Markdown list:
 
 1. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 2. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
