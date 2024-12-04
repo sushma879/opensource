@@ -1,4 +1,3 @@
-I'll help you refine that prompt to be more specific and detailed. Here's a better version:
 
 "Create a full-stack AI application with the following specifications:
 
