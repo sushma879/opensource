@@ -1,43 +1,6 @@
 
-```svg
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
-  <!-- AI Circle (Largest) -->
-  <circle cx="400" cy="300" r="250" fill="#e3f2fd" stroke="#2196f3" stroke-width="2"/>
-  <text x="400" y="120" text-anchor="middle" font-size="24" fill="#1565c0">Artificial Intelligence</text>
-  
-  <!-- ML Circle -->
-  <circle cx="400" cy="320" r="180" fill="#bbdefb" stroke="#1976d2" stroke-width="2"/>
-  <text x="400" y="220" text-anchor="middle" font-size="20" fill="#0d47a1">Machine Learning</text>
-  
-  <!-- DL Circle -->
-  <circle cx="400" cy="350" r="120" fill="#90caf9" stroke="#1565c0" stroke-width="2"/>
-  <text x="400" y="320" text-anchor="middle" font-size="18" fill="#0d47a1">Deep Learning</text>
-  
-  <!-- Generative AI Circle -->
-  <circle cx="400" cy="380" r="70" fill="#64b5f6" stroke="#0d47a1" stroke-width="2"/>
-  <text x="400" y="380" text-anchor="middle" font-size="16" fill="#0d47a1">Generative AI</text>
-  
-  <!-- Example boxes -->
-  <g transform="translate(50,50)">
-    <!-- AI Examples -->
-    <rect x="20" y="40" width="150" height="30" rx="5" fill="#ffffff" stroke="#2196f3"/>
-    <text x="95" y="60" text-anchor="middle" font-size="12">Self-driving Cars</text>
-    
-    <!-- ML Examples -->
-    <rect x="20" y="280" width="150" height="30" rx="5" fill="#ffffff" stroke="#1976d2"/>
-    <text x="95" y="300" text-anchor="middle" font-size="12">Spam Detection</text>
-    
-    <!-- DL Examples -->
-    <rect x="580" y="280" width="150" height="30" rx="5" fill="#ffffff" stroke="#1565c0"/>
-    <text x="655" y="300" text-anchor="middle" font-size="12">Face Recognition</text>
-    
-    <!-- Gen AI Examples -->
-    <rect x="580" y="400" width="150" height="30" rx="5" fill="#ffffff" stroke="#0d47a1"/>
-    <text x="655" y="420" text-anchor="middle" font-size="12">ChatGPT</text>
-  </g>
-</svg>
+![Uploading image.png…]()
 
-```
 
 Key Distinctions:
 
